@@ -65,8 +65,7 @@ li {
   gap: 4em;
 }
 
-#bio,
-a {
+.bio, a {
   font-weight: 300;
 }
 
